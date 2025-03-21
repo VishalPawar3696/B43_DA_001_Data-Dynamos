@@ -1,4 +1,4 @@
-![Screenshot (23)](https://github.com/user-attachments/assets/6818aba7-ca22-467f-a1ec-1e9fee9fa890)# B43_DA_001_Data-Dynamos
+
 # airbnb power bi project 
 # Power BI Project: Airbnb Data Analysis
 
@@ -62,12 +62,10 @@ Deliverables
 
 # SQL Database: Fully structured and populated.
 Power BI Dashboard: Interactive and dynamically updating.
-# scrennshot 1
-
 
 # GitHub Rep
-ository:
-Python scripts for data cleaning and SQL integration.
+Rository: https://github.com/VishalPawar3696/B43_DA_001_Data-Dynamos
+.![Screenshot (23)](https://github.com/user-attachments/assets/6818aba7-ca22-467f-a1ec-1e9fee9fa890)# B43_DA_001_Data-Dynamos
 
 # Conclusion
 This project demonstrates data cleaning, SQL integration, and Power BI visualization to analyze Airbnb pricing. The dynamic dashboard ensures real-time updates, making it a powerful tool for data-driven decision-making.
